@@ -1,0 +1,41 @@
+[
+  {
+    "movies": [
+      {
+        "name": "Forrest Gump",
+        "rating": "8.8",
+        "year": "1994"
+      },
+      {
+        "name": "One Flew Over the Cuckoo's Nest (1975) ",
+        "rating": "8.6",
+        "year": "1975"
+      },
+      {
+        "name": "Back to the Future",
+        "rating": "8.6",
+        "year": "1985"
+      },
+      {
+        "name": "Parasite",
+        "rating": "8.5",
+        "year": "2019"
+      },
+      {
+        "name": "Harry Potter and the Goblet of Fire",
+        "rating": "7.7",
+        "year": "2015"
+      },
+      {
+        "name": "Toy Story",
+        "rating": "8.3",
+        "year": "1995"
+      },
+      {
+        "name": "Into the Wild",
+        "rating": "8.0",
+        "year": "2007"
+      }
+    ]
+  }
+]
